@@ -21,7 +21,7 @@ Project 1:Coordinating directional switches in pigeon flocks: the role of nonlin
 Focus on how white noise induces a switch in the rotation direction of a flock of pigeons. We use sparse Bayesian learning 
 (SBL) method to extract interactions between individuals, and then we find that linear interactions dominate in the smooth part 
 of the trajectory, while the percentage of higher-order nonlinear interactions becomes larger when switching trajectories. With 
-the help of the Focke-Planck equation, an analytical solution is obtained for the mean time for a flock of pigeons to rotate from
+the help of the Focker-Planck equation, an analytical solution is obtained for the mean time for a flock of pigeons to rotate from
 a complete clockwise rotation to a complete counterclockwise rotation. Since the stationary probability distribution of S(t) (global mean spin)
 satisfies the bimodal truncated normal distribution, additional calculations are required to correct the theoretical results. The theory agrees well 
 with GPS data, and the results have been published in the journal Royal Society Open Science.[[PDF]](https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.210649)
