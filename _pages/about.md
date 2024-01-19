@@ -42,7 +42,7 @@ dynamic parameters induce the system to produce rich phenomena, such as single r
 
 
 Project 3:Project 2:Phase transition in nonlinear dynamics flocks: Natural Intrinsic Period induced by noise disturbance.
-------
+======
 Proposed a characterization method to describe the noise immunity of marginal ferromagnetism. And extended
 this method to quantify the noise resistance capability of collective motion. Analyzed the Hamiltonian dynamics of marginal ferromagnetism, and obtained the format of Gibbs free
 energy. Characterized the endogenous noise immunity of the bare potential family by expanding the Gibbs
