@@ -86,9 +86,9 @@ author:
   location         : "California, USA"
   employer         :
   pubmed           : 
- # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "shaoguanbo2022@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
