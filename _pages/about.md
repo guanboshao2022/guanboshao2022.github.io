@@ -8,22 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am applying for the Ph.D. Program and  currently working as research assistant in [Yang Zheng]'s SOC lab(https://zhengy09.github.io/).  Previously, I received my bachelor degree in Mathematics and Applied mathematics, Southeast University,Nanjing, And master degree in Statistics at the University of California, San Diego.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Data-enabled predictive control, Control Lyapunov functions, Model predictive control, Linear cruise control, Control barrier functions, Nonlinear multi-agents dynamics,
 
-Getting started
+=======
+I am working as a research assistant in  Electrical and Computer Engineering(ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/).Previously, I received my bachelor degree in Mathematics and Applied Mathematics, Southeast University in Nanjing, and master degree in Statistics at the University of California, San Diego.
+
+Research interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Data-enabled predictive control, Control Lyapunov functions, Model predictive control, Linear cruise control,
+Control barrier functions, Nonlinear multi-agents dynamics
+
+Project 1:Coordinating directional switches in pigeon flocks: the role of nonlinear interactions
+======
+Focus on how white noise induces a switch in the rotation direction of a flock of pigeons. We use sparse Bayesian learning (SBL) method to extract interactions between individuals, and then we find that linear interactions dominate in the smooth part of the trajectory, while the percentage of higher-order nonlinear interactions becomes larger when switching trajectories. With the help of the Focke-Planck equation, an analytical solution is obtained for the mean time for a flock of pigeons to rotate from a complete clockwise rotation to a complete counterclockwise rotation. Since the stationary probability distribution of S(t) (global mean spin) satisfies the bimodal truncated normal distribution, additional calculations are required to correct the theoretical results. The theory agrees well with GPS data, and the results have been published in the journal Royal Society Open Science.[[PDF]](https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.210649)
+
+
+
+Project 2:Phase transition in nonlinear dynamics flocks: Natural Intrinsic Period induced by noise disturbance.
+======
+Introducing the principles of statistical mechanics to analyze second-order dynamical systems with independent noise terms excites me. In courses on stochastic processes, noise is always not considered to be the key to the problem, but in this project, noise is very good. It plays a key role in explaining why the pigeons' rotation direction switches from clockwise to counterclockwise. In the following work, our attention turns to the Vision-cone model, which is an improvement based on the famous Vicsek model. Although there are mature fluid mechanics tools such as Toner-Tu theory, used to describe the abrupt jump of the global order parameter, but we want to start from another perspective and develop some kind of theoretical framework that does not rely on order parameters. In conjunction with the Fokker-Planck equation, we developed a mathematical tool called NIP (natural intrinsic period), combined with sub-index Coefficient of variation. It can well explain how white noise and some dynamic parameters induce the system to produce rich phenomena, such as single ring, twist-like ring, or liquid crystal state. 
+
+Project 3:Project 2:Phase transition in nonlinear dynamics flocks: Natural Intrinsic Period induced by noise disturbance.
+------
+Summer research
 
 Site-wide configuration
 ------
