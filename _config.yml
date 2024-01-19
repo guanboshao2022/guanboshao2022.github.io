@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Guanbo Shao"
-  avatar           : "guanbo.png"
+  avatar           : "guanbo.jpg"
   bio              : "Prospective Ph.D. student"
   location         : "California, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "shaoguanbo2022@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
