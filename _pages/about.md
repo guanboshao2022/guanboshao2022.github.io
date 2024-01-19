@@ -48,5 +48,8 @@ this method to quantify the noise resistance capability of collective motion. An
 energy. Characterized the endogenous noise immunity of the bare potential family by expanding the Gibbs
 free energy around the velocity refer.[[PDF]](https://guanboshao2022.github.io/files/P2.pdf)
 
+Personal info
+------
+Crazy fan of the famous Philippines fried chicken Jollibee,which makes me be jolly everyday.
 
 
