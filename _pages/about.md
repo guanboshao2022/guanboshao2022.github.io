@@ -41,7 +41,7 @@ called NIP (natural intrinsic period), combined with sub-index Coefficient of va
 dynamic parameters induce the system to produce rich phenomena, such as single ring, twist-like ring, or liquid crystal state.  [[PDF]](https://guanboshao2022.github.io/files/P1.pdf)[[SI]](https://guanboshao2022.github.io/files/SI1.pdf)
 
 
-Project 3:Project 2:Phase transition in nonlinear dynamics flocks: Natural Intrinsic Period induced by noise disturbance.
+Project 3:A characterization method to describe the noise immunity  of marginal ferromagnetism
 ======
 Proposed a characterization method to describe the noise immunity of marginal ferromagnetism. And extended
 this method to quantify the noise resistance capability of collective motion. Analyzed the Hamiltonian dynamics of marginal ferromagnetism, and obtained the format of Gibbs free
